@@ -1,0 +1,5 @@
+# Default ignored files
+/.idea/
+calc/__pycache__/
+calc/migrations/__pycache__/
+marom/__pycache__/
